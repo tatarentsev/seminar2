@@ -1,0 +1,15 @@
+C:\Users\hack01\Desktop\ILYA\C#\Examples\example3\bin\Debug\net7.0\example3.exe
+C:\Users\hack01\Desktop\ILYA\C#\Examples\example3\bin\Debug\net7.0\example3.deps.json
+C:\Users\hack01\Desktop\ILYA\C#\Examples\example3\bin\Debug\net7.0\example3.runtimeconfig.json
+C:\Users\hack01\Desktop\ILYA\C#\Examples\example3\bin\Debug\net7.0\example3.dll
+C:\Users\hack01\Desktop\ILYA\C#\Examples\example3\bin\Debug\net7.0\example3.pdb
+C:\Users\hack01\Desktop\ILYA\C#\Examples\example3\obj\Debug\net7.0\example3.csproj.AssemblyReference.cache
+C:\Users\hack01\Desktop\ILYA\C#\Examples\example3\obj\Debug\net7.0\example3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hack01\Desktop\ILYA\C#\Examples\example3\obj\Debug\net7.0\example3.AssemblyInfoInputs.cache
+C:\Users\hack01\Desktop\ILYA\C#\Examples\example3\obj\Debug\net7.0\example3.AssemblyInfo.cs
+C:\Users\hack01\Desktop\ILYA\C#\Examples\example3\obj\Debug\net7.0\example3.csproj.CoreCompileInputs.cache
+C:\Users\hack01\Desktop\ILYA\C#\Examples\example3\obj\Debug\net7.0\example3.dll
+C:\Users\hack01\Desktop\ILYA\C#\Examples\example3\obj\Debug\net7.0\refint\example3.dll
+C:\Users\hack01\Desktop\ILYA\C#\Examples\example3\obj\Debug\net7.0\example3.pdb
+C:\Users\hack01\Desktop\ILYA\C#\Examples\example3\obj\Debug\net7.0\example3.genruntimeconfig.cache
+C:\Users\hack01\Desktop\ILYA\C#\Examples\example3\obj\Debug\net7.0\ref\example3.dll
